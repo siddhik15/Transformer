@@ -3,7 +3,7 @@ import numpy as np
 np.set_printoptions(precision=3, suppress=True)
 
 print("=" * 70)
-print("        Marvellous Infosystems")
+]
 print("        Detailed Manual Self Attention Calculation")
 print("=" * 70)
 
